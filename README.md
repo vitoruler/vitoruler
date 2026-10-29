@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Olá! Eu sou [Vitor Uler]
+# 👋 Olá! Eu sou Vítor Uler
 
 ### 💻 SQL Server | Movtech-BI | Analista JR
 
@@ -49,16 +49,6 @@ indicadores claros e úteis para o negócio.
 ![Movtech](https://img.shields.io/badge/Movtech_BI-008080?style=for-the-badge)
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vitoruler&show_icons=true&theme=github_dark)
-
-![Linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=vitoruler&layout=compact&theme=github_dark)
-
-</div>
 
 ---
 
