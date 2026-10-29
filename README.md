@@ -8,7 +8,7 @@
 Transformando dados em informações estratégicas
 para apoiar decisões e melhorar processos.
 
-![Empresa](https://img.shields.io/badge/Moldemaq-0052CC?style=for-the-badge)
+[![Empresa](https://img.shields.io/badge/Moldemaq-0052CC?style=for-the-badge)](https://www.moldemaq.com.br/)
 ![Localização](https://img.shields.io/badge/Santa_Catarina-Brasil-009B3A?style=for-the-badge)
 
 </div>
