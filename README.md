@@ -3,7 +3,7 @@
 
 # 👋 Olá! Eu sou Vítor Uler
 
-### 💻 SQL Server | Movtech-BI | Analista JR
+### 💻 SQL Server | Movtech-BI | Analista de Dados JR
 
 Transformando dados em informações estratégicas
 para apoiar decisões e melhorar processos.
